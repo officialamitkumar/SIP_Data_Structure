@@ -1,5 +1,21 @@
-﻿![](Aspose.Words.2222fe92-8b78-4165-89d7-659d9889d951.001.png)
-|![](Aspose.Words.2222fe92-8b78-4165-89d7-659d9889d951.002.png)||<p>NAME<br>HERE</p><p>JOB TITLE HERE</p>|
-| :-: | :- | :- |
-|<p><h3>**PROFILE**</h3></p><p>Want to put your own image in the circle?  It is easy!  Select the image and do a right mouse click.  Select “Fill” from the shortcut menu.  Choose Picture… from the list.  Navigate your computer to get the appropriate picture.  Click okay to insert your selected image.</p><p></p><p>Once your image has been inserted, select it again.  Go to the Picture Tools Format menu. Click on the down arrow below “Crop” and select “Fill” from the list.  This will auto adjust your image to crop to the image.  You can click and drag your image to place it appropriately.</p><p></p><p><h3>**CONTACT**</h3></p><p>PHONE:</p><p>678-555-0103</p><p></p><p>WEBSITE:</p><p>Website goes here</p><p></p><p>EMAIL:</p><p>someone@example.com[](mailto:emailgoeshere@example.com)</p><p><h3>**HOBBIES**</h3></p><p>Hobby #1</p><p>Hobby #2</p><p>Hobby #3</p><p>Hobby #4</p>||<p><h2>**EDUCATION**</h2></p><p><h4>**[School Name]**</h4></p><p>[Dates From] - [To]</p><p>[It’s okay to brag about your GPA, awards, and honors. Feel free to summarize your coursework too.]</p><p></p><p><h4>**[School Name]**</h4></p><p>[Dates From] - [To]</p><p>[It’s okay to brag about your GPA, awards, and honors. Feel free to summarize your coursework too.]</p><p><h2>**WORK EXPERIENCE**</h2></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h2>**SKILLS**</h2></p><p>![skills chart](Aspose.Words.2222fe92-8b78-4165-89d7-659d9889d951.003.png)</p>|
+﻿***ARRAY***
 
+**Definition**
+
+Array is the collection of homogeneous items which has contiguous memory allocation and identified by unique index number.
+
+**Syntax**
+**
+`    `Data\_type  array\_name[size];
+
+`	`int  a[10];
+
+
+
+`           `a[0]      a[1]      a[2]   a[3]   a[4]   a[5]    a[6]     a[7]     a[8]      a[9]
+
+|||||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+![](Aspose.Words.e9df5762-4589-4a7f-be9f-7cbeec8504e6.001.png)	200      204	    208   212   216   220     224      228      232    236
+
+`	`Base Address
