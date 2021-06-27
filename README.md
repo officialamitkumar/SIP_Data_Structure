@@ -11,7 +11,7 @@ Array is the collection of homogeneous items which has contiguous memory allocat
 
 `	`int  a[10];
 
-![6]([https://user-images.githubusercontent.com/55083648/123540880-d2e43180-d75e-11eb-865c-85fee76bfbaa.PNG]())
+![6](https://user-images.githubusercontent.com/55083648/123541233-0922b080-d761-11eb-9de1-2d1b18f38841.PNG)
 
 **Now let us Perform the various operations on One Dimensional Array**
 ![](Aspose.Words.6a81aedd-ae46-4a3d-b637-137b91b0d979.002.png)
