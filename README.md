@@ -12,4 +12,3 @@ Array is the collection of homogeneous items which has contiguous memory allocat
 
 
 
-`	`Base Address
