@@ -22,16 +22,19 @@ Array is the collection of homogeneous items which has contiguous memory allocat
 
 2. List of the operation can be performed on array
 
-![2]([https://user-images.githubusercontent.com/55083648/123540920-1343af80-d75f-11eb-86ae-0f249fe7e115.PNG]())
+![2](https://user-images.githubusercontent.com/55083648/123540920-1343af80-d75f-11eb-86ae-0f249fe7e115.PNG)
 
 3. Display Array
 
-![3]([https://user-images.githubusercontent.com/55083648/123540922-13dc4600-d75f-11eb-90f1-0893e701490b.PNG]())
+![3](https://user-images.githubusercontent.com/55083648/123540922-13dc4600-d75f-11eb-90f1-0893e701490b.PNG)
 
 4. Insertion Array
 
-![4]([https://user-images.githubusercontent.com/55083648/123540923-13dc4600-d75f-11eb-8b3b-5d23121152b9.PNG]())
+![4](https://user-images.githubusercontent.com/55083648/123540923-13dc4600-d75f-11eb-8b3b-5d23121152b9.PNG)
 
 
-![5](<https://user-images.githubusercontent.com/55083648/123540924-1474dc80-d75f-11eb-80d6-41e628a4a05d.PNG>)
+![5](https://user-images.githubusercontent.com/55083648/123540924-1474dc80-d75f-11eb-80d6-41e628a4a05d.PNG)
+
+
+
 
