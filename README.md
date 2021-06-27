@@ -6,7 +6,7 @@ Array is the collection of homogeneous items which has contiguous memory allocat
 
 **Syntax**
 **
-`    `Data\_type  array\_name[size];
+`    `Data_type  array_name[size];
 
 `	`int  a[10];
 
