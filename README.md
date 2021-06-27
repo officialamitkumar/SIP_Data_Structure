@@ -1,5 +1,37 @@
-﻿![](Aspose.Words.36b437ea-4619-4150-a564-de3480f4a174.001.png)
-|![](Aspose.Words.36b437ea-4619-4150-a564-de3480f4a174.002.png)||<p>NAME<br>HERE</p><p>JOB TITLE HERE</p>|
-| :-: | :- | :- |
-|<p><h3>**PROFILE**</h3></p><p>Want to put your own image in the circle?  It is easy!  Select the image and do a right mouse click.  Select “Fill” from the shortcut menu.  Choose Picture… from the list.  Navigate your computer to get the appropriate picture.  Click okay to insert your selected image.</p><p></p><p>Once your image has been inserted, select it again.  Go to the Picture Tools Format menu. Click on the down arrow below “Crop” and select “Fill” from the list.  This will auto adjust your image to crop to the image.  You can click and drag your image to place it appropriately.</p><p></p><p><h3>**CONTACT**</h3></p><p>PHONE:</p><p>678-555-0103</p><p></p><p>WEBSITE:</p><p>Website goes here</p><p></p><p>EMAIL:</p><p>someone@example.com[](mailto:emailgoeshere@example.com)</p><p><h3>**HOBBIES**</h3></p><p>Hobby #1</p><p>Hobby #2</p><p>Hobby #3</p><p>Hobby #4</p>||<p><h2>**EDUCATION**</h2></p><p><h4>**[School Name]**</h4></p><p>[Dates From] - [To]</p><p>[It’s okay to brag about your GPA, awards, and honors. Feel free to summarize your coursework too.]</p><p></p><p><h4>**[School Name]**</h4></p><p>[Dates From] - [To]</p><p>[It’s okay to brag about your GPA, awards, and honors. Feel free to summarize your coursework too.]</p><p><h2>**WORK EXPERIENCE**</h2></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h4>**[Company Name]  [Job Title]**</h4></p><p>[Dates From]–[To]</p><p>[Describe your responsibilities and achievements in terms of impact and results. Use examples but keep in short.] </p><p></p><p><h2>**SKILLS**</h2></p><p>![skills chart](Aspose.Words.36b437ea-4619-4150-a564-de3480f4a174.003.png)</p>|
+﻿***ARRAY***
+![](Aspose.Words.6a81aedd-ae46-4a3d-b637-137b91b0d979.001.png)
+
+**Definition**
+
+Array is the collection of homogeneous items which has contiguous memory allocation and identified by unique index number.
+
+**Syntax**
+**
+`    `Data\_type  array\_name[size];
+
+`	`int  a[10];
+
+![6]([https://user-images.githubusercontent.com/55083648/123540880-d2e43180-d75e-11eb-865c-85fee76bfbaa.PNG]())
+
+**Now let us Perform the various operations on One Dimensional Array**
+![](Aspose.Words.6a81aedd-ae46-4a3d-b637-137b91b0d979.002.png)
+
+1. Enter the Array and size.
+
+![1]([https://user-images.githubusercontent.com/55083648/123540919-12ab1900-d75f-11eb-8c5e-070545d898dd.PNG]())
+
+1. List of the operation can be performed on array
+
+![2]([https://user-images.githubusercontent.com/55083648/123540920-1343af80-d75f-11eb-86ae-0f249fe7e115.PNG]())
+
+1. Display Array
+
+![3]([https://user-images.githubusercontent.com/55083648/123540922-13dc4600-d75f-11eb-90f1-0893e701490b.PNG]())
+
+1. Insertion Array
+
+![4]([https://user-images.githubusercontent.com/55083648/123540923-13dc4600-d75f-11eb-8b3b-5d23121152b9.PNG]())
+
+
+![5](<https://user-images.githubusercontent.com/55083648/123540924-1474dc80-d75f-11eb-80d6-41e628a4a05d.PNG>)
 
