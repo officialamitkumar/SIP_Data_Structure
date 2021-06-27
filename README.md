@@ -12,3 +12,7 @@ Array is the collection of homogeneous items which has contiguous memory allocat
 
 
 
+![1](https://user-images.githubusercontent.com/55083648/123539748-c8bf3480-d758-11eb-8e98-b8deaeccbe17.PNG)
+
+
+
